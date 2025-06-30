@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pursuing **B.Tech in Computer Science** at **Thapar Institute of Engineering and Technology** (2022–2026), with a GPA of **8.82/10**.
+I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pursuing **B.Tech in Computer Science** at **Thapar Institute of Engineering and Technology** (2022–2026), with a GPA of **8.73/10**.
 
 - 🔭 I'm currently working on **AI-powered applications** and **scalable backend systems**
 - 🌱 I'm learning **Advanced Machine Learning** and **Cloud Architecture**
@@ -172,10 +172,10 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 
 | 🎓 **Degree** | 🏫 **Institution** | 📅 **Duration** | 📈 **GPA** |
 |:---:|:---:|:---:|:---:|
-| B.Tech Computer Science | Thapar Institute of Engineering & Technology | 2022 - 2026 | 8.82/10 |
+| B.Tech Computer Science | Thapar Institute of Engineering & Technology | 2022 - 2026 | 8.73/10 |
 
 ### 🏆 **Key Achievements**
-- 🥇 **High Academic Performance:** Consistent 8.82+ GPA
+- 🥇 **High Academic Performance:** Consistent 8.73+ GPA
 - 🚀 **Project Impact:** 80% automation in invoice processing
 - 📱 **User Impact:** 50% reduction in booking time through portal development
 - 🌱 **Sustainability:** 75% reduction in paper usage through digitalization
