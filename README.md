@@ -23,8 +23,6 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 - 🔭 I'm currently working on **AI-powered applications** and **scalable backend systems**
 - 🌱 I'm learning **Advanced Machine Learning** and **Cloud Architecture**
 - 👯 I'm looking to collaborate on **Open Source Projects** and **AI/ML initiatives**
-- 💬 Ask me about **FastAPI, Python, AI/ML, or Full-Stack Development**
-- ⚡ Fun fact: **I automated 80% of manual invoice processing using AI!**
 
 ---
 
