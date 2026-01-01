@@ -49,7 +49,8 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -72,27 +73,22 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 
 ### 🏨 [Hotel MidOrchard](https://hotelmidorchardkasol.in)
 **Modern Hotel Booking Platform**
-- ⚡ **Tech Stack:** FastAPI, MongoDB, JavaScript
+- ⚡ **Tech Stack:** NodeJS, Express, MongoDB, ReactJs
 - 🎯 **Features:** Room showcase, inquiry forms, automated email alerts
 - 📈 **Impact:** Streamlined booking process for MidOrchard Kasol
 
 ### ✈️ [Thapar Travel Portal](https://travel.thapar.edu)
 **Internal Travel Booking System**
-- ⚡ **Tech Stack:** Node.js, Express, PostgreSQL
+- ⚡ **Tech Stack:** Python, MongoDB, ReactJs
 - 🎯 **Features:** Mobile-friendly UI, admin dashboard
 - 📈 **Impact:** 50% reduction in booking time, 75% less paper usage
 
-### 🤖 AI-Powered Invoice Processing
-**Intelligent Document Processing System**
-- ⚡ **Tech Stack:** FastAPI, Transformers, OCR, RPA
-- 🎯 **Features:** Automated data extraction, intelligent classification
-- 📈 **Impact:** 80% automation of manual invoice handling
+### 🤖 [Dynamic + Static Indian Sign Language Detection](https://github.com/PranavAngrish/DynamicIndianSignLanguageDetection)
+**Intelligent Gesture Detection**
+- ⚡ **Tech Stack:** FastAPI, Transformers, CNN, OPENCV, Mediapipe, scikit-learn, Translation API
+- 🎯 **Features:** Complex gesture detection, Words to Sentence completion, text to speech, language translation
+- 📈 **Impact:** Applicable on real world scenarios including different lightning conditions and different background noises
 
-### 📰 Hindi Text Summarization Model
-**NLP Model for News Summarization**
-- ⚡ **Tech Stack:** PyTorch, Transformers, Hindi NLP
-- 🎯 **Features:** Coherent summary generation, multilingual support
-- 📈 **Impact:** Fine-tuned model for Hindi content processing
 
 </div>
 
@@ -177,11 +173,6 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 |:---:|:---:|:---:|:---:|
 | B.Tech Computer Science | Thapar Institute of Engineering & Technology | 2022 - 2026 | 8.73/10 |
 
-### 🏆 **Key Achievements**
-- 🥇 **High Academic Performance:** Consistent 8.73+ GPA
-- 🚀 **Project Impact:** 80% automation in invoice processing
-- 📱 **User Impact:** 50% reduction in booking time through portal development
-- 🌱 **Sustainability:** 75% reduction in paper usage through digitalization
 
 </div>
 
@@ -201,7 +192,7 @@ class PranavAngrish:
         self.code = {
             "backend": ["Python", "FastAPI", "Node.js"],
             "database": ["MongoDB", "PostgreSQL"],
-            "ai_ml": ["PyTorch", "Transformers", "OCR"],
+            "ai_ml": ["PyTorch", "Tenserflow"],
             "cloud": ["AWS", "Docker"],
             "tools": ["Git", "VS Code", "Postman"]
         }
