@@ -18,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pursuing **B.Tech in Computer Science** at **Thapar Institute of Engineering and Technology** (2022–2026), with a GPA of **8.73/10**.
+I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pursuing **B.Tech in Computer Science** at **Thapar Institute of Engineering and Technology** (2022–2026), with a GPA of **8.71/10**.
 
 - 🔭 I'm currently working on **AI-powered applications** and **scalable backend systems**
 - 🌱 I'm learning **Advanced Machine Learning** and **Cloud Architecture**
@@ -73,7 +73,7 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 
 <div align="center">
 
-### 🏨 [Hotel MidOrchard](https://hotelmidorchardkasol.in)
+### 🏨 [Hotel MidOrchard](https://github.com/PranavAngrish/TravelMERN)
 **Modern Hotel Booking Platform**
 - ⚡ **Tech Stack:** NodeJS, Express, MongoDB, ReactJs
 - 🎯 **Features:** Room showcase, inquiry forms, automated email alerts
@@ -173,7 +173,7 @@ I'm a passionate **Software Developer** and **AI/LLM Enthusiast**, currently pur
 
 | 🎓 **Degree** | 🏫 **Institution** | 📅 **Duration** | 📈 **GPA** |
 |:---:|:---:|:---:|:---:|
-| B.Tech Computer Science | Thapar Institute of Engineering & Technology | 2022 - 2026 | 8.73/10 |
+| B.Tech Computer Science | Thapar Institute of Engineering & Technology | 2022 - 2026 | 8.71/10 |
 
 
 </div>
